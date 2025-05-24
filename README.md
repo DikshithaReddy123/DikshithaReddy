@@ -1,24 +1,100 @@
-<h1 align="center">Hi 👋, I'm Dikshitha Mamidi</h1>
-<h3 align="center">A fervent Data Engineer and Backend developer</h3>
+# 👋 Hi, I'm Dikshitha Mamidi
 
-- 🌱 I’m currently learning **AWS services**
+🚀 **Data Engineer | Cloud-Native Developer | ETL Enthusiast**
 
-- 👯 I’m looking to collaborate on **aws cloud native**
+📍 Atlanta, GA | 📧 deekshithareddy573@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dikshitha%20Mamidi-blue?logo=linkedin)](https://www.linkedin.com/in/dikshitha-reddy-mamidi-38461b24b/)
 
-- 🤝 I’m looking for help with **UI**
+---
 
-- 💬 Ask me about **Devops**
+## 💼 About Me
 
-- 📫 How to reach me **deekshithareddy573@gmail.com**
+I’m a passionate **Data Engineer** with 3+ years of experience in building and deploying scalable data pipelines, cloud-native architectures, and robust data APIs. I specialize in:
 
-- ⚡ Fun fact **people say that I am funny**
+- ⚙️ Designing end-to-end ETL workflows on **AWS** (Lambda, Step Functions, DynamoDB)
+- 🛠 Building **GraphQL APIs** using Strawberry and Apollo Federation
+- 🧪 Validating data with **Pydantic** models to ensure quality and integrity
+- 🧩 Collaborating cross-functionally to develop production-ready solutions
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dikshitha-reddy-mamidi-38461b24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dikshitha-reddy-mamidi-38461b24b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/dikshithamamidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dikshithamamidi" height="30" width="40" /></a>
-<a href="https://instagram.com/deekshithareddy2203@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deekshithareddy2203@gmail.com" height="30" width="40" /></a>
-</p>
+I thrive in cloud environments and love solving data engineering challenges that improve reliability, accessibility, and performance at scale.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🧰 Skills & Tools
+
+**Languages**  
+`Python` | `SQL`
+
+**Cloud & DevOps**  
+`AWS (Lambda, S3, DynamoDB, Step Functions, CloudFormation)` | `GitLab CI/CD`
+
+**Data & Frameworks**  
+`GraphQL (Strawberry, Apollo)` | `Pydantic` | `Jupyter` | `Tableau`
+
+**Databases**  
+`Aurora` | `MySQL` | `SQL Server` | `Teradata`
+
+**Concepts**  
+`ETL` | `Data Warehousing` | `API Design` | `Agile` | `Machine Learning (Basics)`
+
+---
+
+## 🧑‍💻 Experience
+
+### **Delta Airlines** — *Data Engineer*  
+📍 Atlanta, GA | 🗓️ Sep 2022 – Present  
+- Architected ETL pipelines using AWS Lambda and Python
+- Built federated GraphQL APIs and deployed across multiple environments
+- Orchestrated workflows using Step Functions and integrated with DynamoDB
+- Designed scalable, cloud-native data solutions reducing operational costs
+- Championed team collaboration with GitLab and Agile practices
+
+### **Sciffer Analytics** — *Data Collection Intern*  
+📍 Pune, India | 🗓️ Feb 2021 – Jul 2021  
+- Collected and validated datasets to support predictive modeling
+- Worked with team members to improve data quality and insight extraction
+
+---
+
+## 🎓 Education
+
+- **University of North Texas**  
+  M.S. in Computer Science, GPA: 3.6/4.0 (2021–2023)
+
+- **Guru Nanak Institutions Technical Campus**  
+  B.Tech in Information Technology, GPA: 8.85/10.0 (2016–2020)
+
+---
+
+## 📌 Projects
+
+### 🧠 Fake User Identification on Twitter  
+- Developed a Random Forest model in AWS SageMaker to classify fake users  
+- Analyzed content, graph, and temporal features for accurate detection  
+- Improved model performance through data-driven optimizations
+
+---
+
+## 📜 Certifications
+
+- **AWS Certified Cloud Practitioner**  
+- **AWS Data Engineer**  
+- **Red Hat Academy: Cloud Computing**  
+- **Udemy: Data Science**  
+- **IBM Cloud: IoT & Smart Bridge**
+
+---
+
+## 🏆 Achievements
+
+- Reduced operational costs by implementing cloud-optimized pipelines  
+- Enhanced pipeline throughput by optimizing Python and AWS architecture  
+- Contributed to real-time analytics projects improving business decisions
+
+---
+
+## 📫 Let’s Connect!
+
+Feel free to reach out if you want to collaborate on data projects, discuss cloud strategies, or geek out over API architecture!
+
+---
