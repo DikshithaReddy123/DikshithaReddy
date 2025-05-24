@@ -1,100 +1,95 @@
-# 👋 Hi, I'm Dikshitha Mamidi
+# 👋 Hi there, I'm Dikshitha Mamidi
 
-🚀 **Data Engineer | Cloud-Native Developer | ETL Enthusiast**
+🚀 **Data Engineer | Cloud-Native Developer | API Specialist**
 
-📍 Atlanta, GA | 📧 deekshithareddy573@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dikshitha%20Mamidi-blue?logo=linkedin)](https://www.linkedin.com/in/dikshitha-reddy-mamidi-38461b24b/)
-
----
-
-## 💼 About Me
-
-I’m a passionate **Data Engineer** with 3+ years of experience in building and deploying scalable data pipelines, cloud-native architectures, and robust data APIs. I specialize in:
-
-- ⚙️ Designing end-to-end ETL workflows on **AWS** (Lambda, Step Functions, DynamoDB)
-- 🛠 Building **GraphQL APIs** using Strawberry and Apollo Federation
-- 🧪 Validating data with **Pydantic** models to ensure quality and integrity
-- 🧩 Collaborating cross-functionally to develop production-ready solutions
-
-I thrive in cloud environments and love solving data engineering challenges that improve reliability, accessibility, and performance at scale.
+📍 Atlanta, GA | ✉️ deekshithareddy573@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dikshitha-reddy-mamidi-38461b24b)
 
 ---
 
-## 🧰 Skills & Tools
+## 🧑‍💻 About Me
 
-**Languages**  
-`Python` | `SQL`
+I’m a dedicated **Data Engineer** with 3+ years of experience designing cloud-native data platforms and scalable ETL pipelines. I specialize in:
 
-**Cloud & DevOps**  
-`AWS (Lambda, S3, DynamoDB, Step Functions, CloudFormation)` | `GitLab CI/CD`
-
-**Data & Frameworks**  
-`GraphQL (Strawberry, Apollo)` | `Pydantic` | `Jupyter` | `Tableau`
-
-**Databases**  
-`Aurora` | `MySQL` | `SQL Server` | `Teradata`
-
-**Concepts**  
-`ETL` | `Data Warehousing` | `API Design` | `Agile` | `Machine Learning (Basics)`
+- ⚙️ ETL development using **AWS Lambda, Step Functions, and DynamoDB**
+- 🔌 Creating federated **GraphQL APIs** using Strawberry & Apollo
+- 🧪 Enforcing data quality with **Pydantic** models
+- 🚢 Delivering production-grade data solutions in Agile teams
 
 ---
 
-## 🧑‍💻 Experience
+## 🧰 Tech Stack
+
+**Languages**:  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff)  
+**Cloud & Infra**:  
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)  
+**Databases**:  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb)  
+**APIs & Tools**:  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql) ![Apollo](https://img.shields.io/badge/Apollo-311C87?logo=apollo-graphql)  
+**Other**:  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau)
+
+---
+
+## 💼 Work Experience
 
 ### **Delta Airlines** — *Data Engineer*  
 📍 Atlanta, GA | 🗓️ Sep 2022 – Present  
-- Architected ETL pipelines using AWS Lambda and Python
-- Built federated GraphQL APIs and deployed across multiple environments
-- Orchestrated workflows using Step Functions and integrated with DynamoDB
-- Designed scalable, cloud-native data solutions reducing operational costs
-- Championed team collaboration with GitLab and Agile practices
+- Architected end-to-end ETL pipelines in AWS using Python and Lambda  
+- Built GraphQL APIs with Strawberry and Apollo Gateway (DEV → PROD)  
+- Orchestrated data workflows using Step Functions  
+- Designed Pydantic models to ensure robust data validation  
+- Led GitLab-based CI/CD integration and Agile delivery  
 
 ### **Sciffer Analytics** — *Data Collection Intern*  
 📍 Pune, India | 🗓️ Feb 2021 – Jul 2021  
-- Collected and validated datasets to support predictive modeling
-- Worked with team members to improve data quality and insight extraction
+- Collected high-quality data to support ML model training  
+- Collaborated on data validation and preprocessing initiatives
 
 ---
 
 ## 🎓 Education
 
-- **University of North Texas**  
-  M.S. in Computer Science, GPA: 3.6/4.0 (2021–2023)
+🎓 **University of North Texas**  
+*M.S. Computer Science* — GPA: 3.6/4.0
 
-- **Guru Nanak Institutions Technical Campus**  
-  B.Tech in Information Technology, GPA: 8.85/10.0 (2016–2020)
-
----
-
-## 📌 Projects
-
-### 🧠 Fake User Identification on Twitter  
-- Developed a Random Forest model in AWS SageMaker to classify fake users  
-- Analyzed content, graph, and temporal features for accurate detection  
-- Improved model performance through data-driven optimizations
+🎓 **Guru Nanak Institutions Technical Campus**  
+*B.Tech in Information Technology* — GPA: 8.85/10
 
 ---
 
-## 📜 Certifications
+## 📈 GitHub Stats
 
-- **AWS Certified Cloud Practitioner**  
-- **AWS Data Engineer**  
-- **Red Hat Academy: Cloud Computing**  
-- **Udemy: Data Science**  
-- **IBM Cloud: IoT & Smart Bridge**
+![Dikshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshithamamidi&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshithamamidi&layout=compact)
 
 ---
 
 ## 🏆 Achievements
 
-- Reduced operational costs by implementing cloud-optimized pipelines  
-- Enhanced pipeline throughput by optimizing Python and AWS architecture  
-- Contributed to real-time analytics projects improving business decisions
+- 🧱 Built scalable AWS-based data pipelines reducing infrastructure cost  
+- 📊 Delivered real-time data solutions for faster business decisions  
+- 🧪 Boosted data integrity through automated validation and Pydantic schemas
 
 ---
 
-## 📫 Let’s Connect!
+## 📜 Certifications
 
-Feel free to reach out if you want to collaborate on data projects, discuss cloud strategies, or geek out over API architecture!
+- 🟧 AWS Cloud Practitioner  
+- 🟦 AWS Data Engineer  
+- 🔧 Red Hat Academy - Cloud Computing  
+- 📊 Udemy - Data Science  
+- 🌐 IBM Cloud - IoT & Smart Bridge
 
 ---
+
+## 📫 Let's Connect!
+
+💼 Open to exciting data roles and collaborations.  
+📧 Email: deekshithareddy573@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dikshitha-reddy-mamidi-38461b24b)
+
+---
+
