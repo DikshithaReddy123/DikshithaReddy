@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Dikshitha Mamidi
 
-🚀 **Data Engineer | Cloud-Native Developer | API Specialist**
+🚀 **Data Engineer | Backend Developer | AWS Cloud Engineer**
 
 📍 Atlanta, GA | ✉️ deekshithareddy573@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/dikshitha-reddy-mamidi-38461b24b)
